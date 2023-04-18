@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package geradorsenha;
+package com.michaeldydean.passwordgeratorma;
 
 //import javax.swing.JOptionPane;
 import java.awt.Toolkit;
@@ -22,7 +22,7 @@ import processadortexto.ValidadorDeTexto;
  *
  * @author Michael Dydean
  *
- * @version 0.21
+ * @version 1.0
  */
 /*
  Criado em 18-01-16.
