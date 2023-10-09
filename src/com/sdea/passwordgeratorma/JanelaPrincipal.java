@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.michaeldydean.passwordgeratorma;
+package com.sdea.passwordgeratorma;
 
 //import javax.swing.JOptionPane;
 import java.awt.Toolkit;
