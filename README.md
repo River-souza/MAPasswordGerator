@@ -5,4 +5,12 @@
 
 ### Description
 
-MA Password Generator é uma ferramenta que tem objetivo de criar senhas fortes a partir de definições feitas pelo usuário na janela do programa ou informando uma palavras de fácil uso para criar senhas de fácil memorização.
+MA Password Generator is a tool that aims to create strong passwords based on definitions made by the user in the program window or by entering easy-to-use words to create easy-to-remember passwords.
+
+### Technologies used
+
+•	Install netbeans
+
+•	Install Java 8 JDK e JRE
+
+•	Clone the project
