@@ -1,7 +1,10 @@
 # MA Password Generator
- #### Created on : 17/04/2023.
- #### Change on : 17/04/2021.
- #### Author : Michael D.
+ 
+ Created on : 17/04/2023.
+ 
+ Change on : 17/04/2021.
+ 
+ Author : Michael D.
 
 ### Description
 
